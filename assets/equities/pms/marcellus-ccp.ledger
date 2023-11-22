@@ -1,0 +1,37 @@
+;FY2019-20
+2020/01/14 Opened Marcellus CCP PMS Scheme
+    Assets:Equity:PMS:CCP                        2500000  CCP @ 1 INR
+    Assets:Cash:Axis_9183
+
+P 2020/03/31   CCP 0.85 INR
+
+;FY2020-21
+P 2020/06/30   CCP 0.98 INR
+P 2020/09/30   CCP 1.04 INR
+
+2020/11/19 Topup Marcellus CCP PMS Scheme
+    Assets:Equity:PMS:CCP                        2100000  CCP @ 1 INR
+    Assets:Cash:Axis_9183
+
+P 2020/12/31   CCP 1.13 INR
+P 2021/03/31   CCP 1.24 INR
+
+;FY2021-22
+P 2021/06/30   CCP 1.35 INR
+
+2021/09/08 Topup   CCP Wealth PMS Scheme
+    Assets:Equity:PMS:CCP                        500000   CCP @ 1 INR
+    Assets:Cash:Axis_9183
+P 2021/09/30   CCP 1.42 INR
+P 2021/12/31   CCP 1.43 INR
+P 2022/03/31   CCP 1.33 INR
+
+;FY2022-23
+P 2022/06/30   CCP 1.15 INR
+P 2022/09/30   CCP 1.35 INR
+P 2022/12/31   CCP 1.31 INR
+P 2023/03/31   CCP 1.19 INR
+
+; End of AMJ Quarter updates
+P 2023/06/30   CCP 1.38 INR
+P 2023/09/30   CCP 1.42 INR

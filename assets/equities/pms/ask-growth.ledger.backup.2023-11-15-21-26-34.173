@@ -1,0 +1,35 @@
+;FY2018-19
+; Opened the Sundaram ASK-132 Account on Sept 04 2018
+2018/09/04 Opened Ask Wealth Scheme
+    Assets:Equity:PMS:Ask_Wealth                 2500000 ASK @ 1 INR
+    Assets:Cash:Axis_9183
+P 2018/09/30 ASK 0.92 INR 
+P 2018/12/31 ASK 0.96 INR
+P 2019/03/31 ASK 0.96 INR
+
+;FY2019-20
+P 2019/06/30 ASK 0.96 INR
+P 2019/09/30 ASK 1.10 INR
+P 2019/12/31 ASK 0.85 INR
+P 2020/03/31 ASK 0.98 INR
+
+;FY2020-21
+P 2020/06/30 ASK 1.04 INR
+P 2020/09/30 ASK 1.20 INR
+P 2020/12/31 ASK 1.35 INR
+P 2021/03/31 ASK 1.55 INR
+
+;FY2021-22
+P 2021/06/30 ASK 1.68 INR
+P 2021/09/30 ASK 1.64 INR
+P 2021/12/31 ASK 1.56 INR
+P 2022/03/31 ASK 1.33 INR
+
+;FY2022-23
+P 2022/06/30 ASK 1.59 INR
+P 2022/09/30 ASK 1.53 INR
+P 2022/12/31 ASK 1.40 INR
+;ASK Wealth account closed and transferred back to Axis-9183
+2022/03/31 Closed Ask Wealth Scheme
+    Assets:Cash:Axis_9183
+    Assets:Equity:PMS:Ask_Wealth                -2500000 ASK @ 1.40 INR

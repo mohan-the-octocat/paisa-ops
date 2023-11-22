@@ -1,0 +1,51 @@
+;FY2018-19
+; Opened the Sundaram SELF-132 Account on Sept 04 2018
+2018/09/04 Opened Sundaram SELF-132 Scheme
+    Assets:Equity:PMS:Sundaram_SELF_132          2500000 SELF @ 1 INR
+    Assets:Cash:Axis_9183
+P 2018/09/30 SELF 0.97 INR 
+P 2018/12/31 SELF 1.05 INR
+P 2019/03/31 SELF 1.09 INR
+
+
+;FY2019-20
+P 2019/06/30 SELF 1.06 INR
+P 2019/09/30 SELF 1.06 INR
+
+; Topped up Sundaram SELF-132 account on 15 Nov 2019 with 5 Lakhs
+2019/11/15 Added funds to Sundaram SELF-132 Scheme
+    Assets:Equity:PMS:Sundaram_SELF_132           500000 SELF @ 1 INR
+    Assets:Cash:Axis_9183
+
+P 2019/12/31 SELF 1.18 INR
+
+;End of JFM Quarter updates
+P 2020/03/31 SELF 0.85 INR
+
+;FY2020-21
+P 2020/06/30 SELF 1.04 INR
+P 2020/09/30 SELF 1.23 INR
+
+2020/12/21 Partial payout from Sundaram SELF Scheme
+    Assets:Cash:Axis_9183   
+    Assets:Equity:PMS:Sundaram_SELF_132         -1588974 SELF @ 1.4474 INR
+
+; End of OND Quarter updates
+P 2020/12/31 SELF 1.43 INR
+P 2021/03/31 SELF 1.54 INR
+
+;FY2021-22
+P 2021/06/30 SELF 1.81 INR
+P 2021/09/30 SELF 2.13 INR
+P 2021/12/31 SELF 2.12 INR
+P 2022/03/31 SELF 2.06 INR
+
+;FY2022-23
+P 2022/06/30 SELF 1.72 INR
+P 2022/09/30 SELF 2.02 INR
+P 2022/12/31 SELF 1.96 INR
+P 2023/03/31 SELF 2.16 INR
+
+; End of AMJ Quarter updates
+P 2023/06/30 SELF 2.16 INR
+P 2023/09/30 SELF 2.18 INR
